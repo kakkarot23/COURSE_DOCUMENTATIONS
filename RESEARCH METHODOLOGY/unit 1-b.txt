@@ -1,0 +1,60 @@
+research methodology is a systematic approach for doing a research experiment. it explain various steps including tools, methods, materials  and subjects and procedures.
+
+research methodology can help in ensuring the validity of the research by allowing other to do the experiment to conform it themself. it includes details like tools, materials, methods, subjects and procedures to help in reproduction ability. 
+
+The objective of research is to explore and analyze specific questions or problems in order to find answers. It aims to increase knowledge, provide insights, and address challenges through investigation.
+
+The two main types of research are quantitative and qualitative. Quantitative research focuses on collecting numerical values to be measure and analyze, while qualitative research explores ideas, experiences, and meanings through non-numerical values. 
+
+The steps in research include formulation, design, collection, and analysis. Formulation involves identifying the problem or question, design is about planning how to study it, collection focuses on gathering data, and analysis examines the data to draw conclusions.
+
+literature review help in gaining insight on the "what", "how" and "why" of the targeted research topic. its also help in finding potential knoeleage gaps in the research topic to focus on. 
+
+A research problem is identified through observation. By closely looking at potential patterns, or challenges, we can spot issues or unanswered questions that need to be explored further.
+
+selecting a research problem is important because it helps ensure the study is relevant and meaningful. Choosing the right problem allows researchers to address real-world issues, contribute valuable insights, and make a positive impact.
+
+
+The criteria for selecting a research problem include significance and feasibility. A problem should be significant, meaning it addresses an important issue or gap in knowledge, and feasible, meaning it can be studied within the available time, resources, and skills.
+
+The purpose of formulating a research problem is to clarify the objective of the study. It helps researchers focus on what they want to achieve, ensuring the research is clear, organized, and directed toward finding meaningful answers.
+
+
+A research hypothesis is a testable statement that predicts the relationship between variables in a study. It provides a clear direction for the research and can be tested through data collection and analysis to confirm or refute the prediction.
+
+The difference between research questions and research hypotheses is that a research question is open-ended, aiming to explore a topic without predicting the outcome. In contrast, a research hypothesis is testable, making a specific prediction that can be confirmed or disproven through experimentation or analysis.
+
+
+The two main types of research designs are experimental and quasi-experimental. Experimental research involves manipulating variables in a controlled environment to observe their effects, while quasi-experimental research also examines cause-and-effect relationships but without random assignment of participants.
+
+
+----------------------------------------------------------------------------------02/12/24--------------------------------------------------------------------------------------------------
+
+A research report is a documented account of findings from a study. It presents the research process, data, and conclusions in a structured way, helping others understand and use the results.
+
+The components of a research report include an introduction, a literature review, methodology, results, discussion, and conclusion. Each part serves a purpose, such as explaining the research problem, reviewing past studies, detailing the process, and sharing findings and interpretations.
+
+The difference between a research report and a research paper is their purpose and format. A research report documents findings from a study in detail, often for academic use, while a research paper is a scholarly article written for publication, focusing on sharing insights with a broader audience.
+
+The purpose of a research proposal is outline the research plan before starting the study. It explains the objectives, methods, and significance of the research, helping to gain approval or funding for the project.
+
+The difference between a research proposal and a research report is their purpose and timing. A research proposal outlines the plan for a study before it begins, while a research report documents the findings and results after the study is completed.
+
+A research problem statement is a clear description of the issue or question the study aims to address. It explains why the problem is important and is the focus for the research.
+
+A good research problem statement is specific, clearly defining the issue or question to be studied, and measurable, allowing the researcher to collect data and evaluate results. This ensures the problem is focused and can be addressed through systematic investigation.
+
+The difference between a research problem statement and a research question is that the problem statement is broad, describing the overall issue or challenge to be addressed. The research question is more specific, focusing on a particular aspect of the problem that the study aims to answer.
+
+
+
+
+
+
+
+
+
+
+
+
+

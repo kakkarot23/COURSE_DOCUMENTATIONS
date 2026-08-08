@@ -1,0 +1,40 @@
+21. What is an Experimental Research Design?
+ Answer: Manipulation of variables
+ 2-Mark Answers: An experimental research design involves the manipulation of variables to study their effects on each other. Researchers control and change one variable (the independent variable) to see how it influences another (the dependent variable) in a controlled setting.
+
+ 22. What is a Quasi-Experimental Research Design?
+ Answer: Non-random assignment
+ 2-Mark Answers: A quasi-experimental research design involves studying cause-and-effect relationships without using random assignment of participants to groups. Instead, groups are pre-existing or assigned based on specific criteria, making it less controlled but still useful for real-world research settings.
+
+ 23. What is a Survey Research Design?
+ Answer: Self-report measures
+ 2-Mark Answers: A survey research design uses self-report measures to collect information directly from people about their opinions, behaviors, or experiences. This is done through tools like questionnaires or interviews, making it an effective way to gather data from large groups.
+
+ 24. What is an Observational Research Design?
+ Answer: Non-participant observation
+ 2-Mark Answers:An observational research design involves studying behavior through non-participant observation, where the researcher does not interact with the subjects. Instead, they simply watch and record their actions as they occur, allowing for unbiased data collection.
+
+ 25. What are the types of Sampling Methods?
+ Answer: Probability, non-probability
+ 2-Mark Answers: The two main types of sampling methods are probability sampling and non-probability sampling. Probability sampling gives every individual in the population an equal chance of being selected, while non-probability sampling selects participants based on convenience or specific requirements, without random selection.
+
+ 26. What is Probability Sampling?
+ Answer: Random selection
+ 2-Mark Answers: Probability sampling uses random selection to ensure every individual in a population has an equal chance of being chosen. This method reduces bias and helps create a sample that accurately represents the entire population.
+
+ 27. What is Non-Probability Sampling?
+ Answer: Non-random selection
+ 2-Mark Answers:Non-probability sampling uses non-random selection, meaning participants are chosen based on convenience or specific criteria rather than randomly. This method is easier and quicker but may not represent the entire population accurately.
+
+ 28. What is a Pilot Study?
+ Answer: Small-scale trial
+ 2-Mark Answers:A pilot study is a small-scale trial conducted before the main research. It helps test the feasibility of the research design, methods, and tools, allowing researchers to identify and fix any issues early.
+
+ 29. What is the purpose of a Pilot Study?
+ Answer: To test feasibility
+ 2-Mark Answers:The purpose of a pilot study is to test the feasibility of the research plan. It helps researchers identify potential problems and make adjustments to improve the main study's chances of success.
+
+30. What are the types of Data Collection Methods?
+ Answer: Primary, secondary
+ 2-Mark Answers:The two types of data collection methods are primary and secondary. Primary data is collected directly by the researcher through methods like surveys or experiments, while secondary data is gathered from existing sources like books, reports, or databases.
+
